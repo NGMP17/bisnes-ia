@@ -1,0 +1,22 @@
+# Ignorar carpetas de dependencias y builds
+node_modules/
+.next/
+out/
+dist/
+
+# Archivos de configuración local y variables de entorno
+.env*
+.DS_Store
+*.log
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+desktop.ini
+
+# Ignorar archivos de editor (opcional, pero recomendable)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
