@@ -1,0 +1,32 @@
+{
+  "name": "bisnes-ia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGMP17/bisnes-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGMP17/bisnes-ia/issues"
+  },
+  "homepage": "https://github.com/NGMP17/bisnes-ia#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.18",
+    "@types/react": "19.1.4",
+    "typescript": "5.8.3"
+  }
+}
